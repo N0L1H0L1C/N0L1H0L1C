@@ -1,6 +1,7 @@
 <div align="center">
 
 ### [ THE TEMPEST ]
-![Visits](https://img.shields.io/badge/dynamic/json?color=informational&label=Visits&query=$.value&url=https://api.countapi.xyz/hit/github-readme/N0L1H0L1C)
+![Profile views](https://komarev.com/ghpvc/?username=N0L1H0L1C&color=%236f00af)
 
-ts isnt finished yet smh blame my motivation
+WILL BE DONE SOON
+###### (ts pmo smh)
