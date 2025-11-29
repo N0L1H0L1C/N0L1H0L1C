@@ -6,34 +6,30 @@
 
 <img width="500" height="30" alt="5e0c488c" src="https://github.com/user-attachments/assets/ff5e2f82-ea18-4ab0-8e9f-fb0a3310a372" />
 
-***hello hi welcome to my readme***
-
-`call me ren or noli as you'd like.`
+`call me ren or r as you'd like.`
 
 `prns: he/him, genderfluid.`
 
 <details>
     <summary>interests!</summary>
     <p>
-     <div align="center"> 
        
-      pressure, madcom, the mimic, regretevator, ena, rblx myths,
-      
-      deepsea, cats, bunnies and a few more. . .
+  pressure, madcom, the mimic, regretevator, ena, rblx myths,
+  
+  deepsea, cats, bunnies and a few more. . .
     
   </p>
   </details>
 
-`married to noli!!`
+`married to myth!noli!!`
 
 ![e4a5605220a546fbbbf593ce576fd153b1339f78](https://github.com/user-attachments/assets/7473ef47-c89c-4178-9bb1-3d8ee43b8fed)
 
   <details>
     <summary>before you interact!</summary>
     <p>
-    <div align="center">
-      
-      would yap a lot, social-anxi, slow mayb.
+
+  would yap a lot, social-anxi, slow mayb.
       
   </p>
   </details>
@@ -43,9 +39,9 @@
     <p>
     <div align="center">
       
-      basic dni crit, attention seekers, kids under 14, shit fandoms.
+  basic dni crit, attention seekers, kids under 14, shit fandoms.
       
-      i wont say what r the shit fandoms, you know them yourself.
+  i wont say what r the shit fandoms, you know them yourself.
     
   </p>
   </details>
