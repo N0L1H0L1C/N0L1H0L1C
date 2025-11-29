@@ -15,10 +15,11 @@
 <details>
     <summary>interests!</summary>
     <p>
-      
+     <div align="center"> 
+       
       pressure, madcom, the mimic, regretevator, ena, rblx myths,
       
-        deepsea, cats, bunnies and a few more. . .
+      deepsea, cats, bunnies and a few more. . .
     
   </p>
   </details>
@@ -30,6 +31,7 @@
   <details>
     <summary>before you interact!</summary>
     <p>
+    <div align="center">
       
       would yap a lot, social-anxi, slow mayb.
       
@@ -39,6 +41,7 @@
   <details>
     <summary>do not interact if...</summary>
     <p>
+    <div align="center">
       
       basic dni crit, attention seekers, kids under 14, shit fandoms.
       
