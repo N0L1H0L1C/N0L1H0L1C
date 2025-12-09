@@ -1,15 +1,19 @@
 <div align="center">
 <img width="1250" height="74" alt="Untitled2425-20230708184656" src="https://github.com/user-attachments/assets/3557105f-ed0b-4fe0-93c9-2c691cd9e373" />
   
-#### [ THE TEMPEST ]
+### [ THE TEMPEST ]
 ![Profile views](https://komarev.com/ghpvc/?username=N0L1H0L1C&color=%236f00af)
 
-<img width="500" height="30" alt="5e0c488c" src="https://github.com/user-attachments/assets/ff5e2f82-ea18-4ab0-8e9f-fb0a3310a372" />
+<img width="536" height="414" alt="image" src="https://github.com/user-attachments/assets/86cf96a4-37c2-436d-9291-e0a981049769" />
+
+<img width="625" height="30" alt="5e0c488c" src="https://github.com/user-attachments/assets/ff5e2f82-ea18-4ab0-8e9f-fb0a3310a372" />
 
 `call me ren or r as you'd like.`
 
 `prns: he/him, genderfluid.`
 
+ --
+ 
 <details>
     <summary>interests!</summary>
     <p>
@@ -33,6 +37,8 @@
       
   </p>
   </details>
+
+--
 
   <details>
     <summary>do not interact if...</summary>
